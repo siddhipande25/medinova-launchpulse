@@ -5,10 +5,10 @@ An interactive multi-page Power BI analytics solution built to track new product
 ## Dashboard Preview
 
 ### Executive Overview
-![Page 1 Overview](screenshots/page1-overview.png)
+![Page 1 Overview](screenshots/Page1.jpeg)
 
 ### Product 360 (Drill-Through View)
-![Page 2 Product 360](screenshots/page2-product360.png)
+![Page 2 Product 360](screenshots/Page2.jpeg)
 
 ## Dataset & Business Scope
 - **Granularity & Scale:** 6,000 order-level records (`Fact_Launch_Sales`) spanning **FY 2025-26** and **FY 2026-27** (April 2025 – September 2026).
